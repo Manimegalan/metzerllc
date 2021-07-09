@@ -1,0 +1,23 @@
+.carouselItem {
+  height: 90vh;
+  background: #777;
+  color: white;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+}
+.container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-bottom: 50px;
+}
+.carouselImage {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  opacity: 0.8;
+}
